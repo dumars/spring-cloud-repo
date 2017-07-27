@@ -1,8 +1,3 @@
 message:
   sender:
     version: 1.0-SNAPSHOT
-
-account:
-  name: dumars
-  password: p@ssw0rd
-  role: ADMIN
